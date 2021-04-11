@@ -1,0 +1,20 @@
+/* 
+  Registration.strings
+  df-movies-catalog-ios
+
+  Created by Yusuf Miletli on 8.04.2021.
+  
+*/
+
+"registration_appTitle" = "The Movie Manager";
+"registration_inputTitle" = "Login with Email";
+"registration_emailPlaceholder" = "Email";
+"registration_passwordPlaceholder" = "Password";
+"registration_loginButtonTitle" = "Login";
+"registration_separatorTitle" = "OR";
+"registration_loginViaWebSiteTitle" = "Login Via Website";
+"registration_footerTitle" = "This product uses the TMDb API but is not\nendorsed or certified by TMDb";
+"registration_validation_errorTitle" = "Validation Error!";
+"registration_validation_wrongEmailTitle" = "Please enter a valid e-mail!";
+"registration_validation_wrongPasswordTitle" = "Please enter a valid password!";
+"registration_ok" = "OK";
